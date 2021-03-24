@@ -16,7 +16,7 @@ For each in the test set, you must predict a 0 or 1 value for the variable."
 - cabin	Cabin number	
 - embarked	Port of Embarkation	C = Cherbourg, Q = Queenstown, S = Southampton
 
-As there are also non numerical data, these columns will have to be converted first. Also not every feature was chosen for prediction, as the name, which is also
+As there is also contained non numerical data, these columns will have to be converted first. Also not every feature was chosen for prediction, as the name, which is also
 listed in the imported csv file, may not contribute to the prediction. 
 ### Classification Algorithm:
 The classification algorithm used in this repo is a denxe neural network with multiple layers. It is adaptable in architecture, such that the best fitting modle 
