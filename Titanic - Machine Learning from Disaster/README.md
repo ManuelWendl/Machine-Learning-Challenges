@@ -22,6 +22,6 @@ listed in the imported csv file, may not contribute to the prediction.
 The classification algorithm used in this repo is a denxe neural network with multiple layers. It is adaptable in architecture, such that the best fitting modle 
 can be chosen. This network was built up from scratch with numpy as the only used library
 ### Conclusion:
-The model predicts the survival of passengers with an accuracy of 77.9%. This is pretty astonishing, as most likely more factors than the given data contributes. 
-There may be factors as sleeping and alcohol consuption, which also contribute to the outcome. The relatively simple model also performs pretty well, in relation to 
-other contributers. 
+The model predicts the survival of passengers with an accuracy of 77.9%. This is pretty astonishing, as most likely more factors than the given data contributed. 
+There may be factors as sleeping and alcohol consuption, which also have a huge affect on the outcome. The relatively simple model also performs pretty well, 
+in relation to other contributers. 
