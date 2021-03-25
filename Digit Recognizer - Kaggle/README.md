@@ -6,9 +6,9 @@ Classify hanndwritten images.
 ### Dataset:
 The pictures are stored in the rows of the imported matrices. The training target is the first column of the trainingsdata. 
 ### Classifying Algorithms:
-- In the first jupyter notebook of the repo, there was again used a dense neural network. This network is built from scratch only with numpy and has an adaptable architecture. 
+- In Digit Recognizer DNN.ipynb, there was again used a dense neural network. This network is built from scratch only with numpy and has an adaptable architecture. 
 It is the same network already used in the other MNIST digit recognition repo.
-- In the 'CNN' notebook, there was used tensorflow to build a convolutional neural network. 
+- In Digit Recognizer CNN.ipynb, there was used tensorflow to build a convolutional neural network. 
 ### Conclusion:
 The trained, self built network has got strong opponents on kaggle, using CNNs, convolutional neural networks. The accuracy of the competitive prediction is 90,492 %. 
 This seems pretty good on the first glance, however in comparison to other competitors, using advanced toolbox methods, the accuracy can be enhanced dramatically.
