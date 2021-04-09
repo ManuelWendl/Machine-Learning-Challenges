@@ -1,0 +1,81 @@
+_id,name,meta.clinical.age_approx,meta.clinical.anatom_site_general,meta.clinical.benign_malignant,meta.clinical.clin_size_long_diam_mm,meta.clinical.diagnosis,meta.clinical.diagnosis_confirm_type,meta.clinical.family_hx_mm,meta.clinical.lesion_id,meta.clinical.mel_class,meta.clinical.mel_mitotic_index,meta.clinical.mel_thick_mm,meta.clinical.mel_type,meta.clinical.mel_ulcer,meta.clinical.melanocytic,meta.clinical.nevus_type,meta.clinical.patient_id,meta.clinical.personal_hx_mm,meta.clinical.sex,meta.acquisition.acquisition_day,meta.acquisition.blurry,meta.acquisition.color_tint,meta.acquisition.dermoscopic_type,meta.acquisition.hairy,meta.acquisition.image_type,meta.acquisition.marker_pen,meta.acquisition.pixelsX,meta.acquisition.pixelsY
+5436e3abbae478396759f0cf,ISIC_0000000,55,anterior torso,benign,,nevus,,,,,,,,,True,,,,female,,,,,,dermoscopic,,1022,767
+5436e3acbae478396759f0d1,ISIC_0000001,30,anterior torso,benign,,nevus,,,,,,,,,True,,,,female,,,,,,dermoscopic,,1022,767
+5436e3acbae478396759f0d5,ISIC_0000003,30,upper extremity,benign,,nevus,,,,,,,,,True,,,,male,,,,,,dermoscopic,,1022,767
+5436e3acbae478396759f0d9,ISIC_0000005,40,anterior torso,benign,,nevus,,,,,,,,,True,,,,female,,,,,,dermoscopic,,1022,767
+5436e3acbae478396759f0db,ISIC_0000006,25,posterior torso,benign,,nevus,,,,,,,,,True,,,,female,,,,,,dermoscopic,,1022,767
+5436e3acbae478396759f0dd,ISIC_0000007,25,posterior torso,benign,,nevus,,,,,,,,,True,,,,female,,,,,,dermoscopic,,1022,767
+5436e3acbae478396759f0df,ISIC_0000008,30,anterior torso,benign,,nevus,,,,,,,,,True,,,,female,,,,,,dermoscopic,,1022,767
+5436e3acbae478396759f0e1,ISIC_0000009,30,anterior torso,benign,,nevus,,,,,,,,,True,,,,female,,,,,,dermoscopic,,1022,767
+5436e3acbae478396759f0e3,ISIC_0000010,35,posterior torso,benign,,nevus,,,,,,,,,True,,,,female,,,,,,dermoscopic,,1022,767
+5436e3acbae478396759f0e5,ISIC_0000011,35,lower extremity,benign,,nevus,,,,,,,,,True,,,,female,,,,,,dermoscopic,,1022,767
+5436e3acbae478396759f0e7,ISIC_0000012,30,posterior torso,benign,,nevus,,,,,,,,,True,,,,male,,,,,,dermoscopic,,1022,767
+5436e3adbae478396759f0eb,ISIC_0000014,35,posterior torso,benign,,nevus,,,,,,,,,True,,,,male,,,,,,dermoscopic,,1022,767
+5436e3adbae478396759f0ed,ISIC_0000015,35,posterior torso,benign,,nevus,,,,,,,,,True,,,,male,,,,,,dermoscopic,,1022,767
+5436e3adbae478396759f0ef,ISIC_0000016,55,anterior torso,benign,,nevus,,,,,,,,,True,,,,female,,,,,,dermoscopic,,1022,767
+5436e3adbae478396759f0f1,ISIC_0000017,50,posterior torso,benign,,nevus,,,,,,,,,True,,,,female,,,,,,dermoscopic,,1504,1129
+5436e3adbae478396759f0f3,ISIC_0000018,30,posterior torso,benign,,nevus,,,,,,,,,True,,,,male,,,,,,dermoscopic,,1504,1129
+5436e3adbae478396759f0f5,ISIC_0000019,30,posterior torso,benign,,nevus,,,,,,,,,True,,,,female,,,,,,dermoscopic,,1504,1129
+5436e3adbae478396759f0f7,ISIC_0000020,25,anterior torso,benign,,nevus,,,,,,,,,True,,,,female,,,,,,dermoscopic,,1504,1129
+5436e3adbae478396759f0f9,ISIC_0000021,55,posterior torso,benign,,nevus,,,,,,,,,True,,,,female,,,,,,dermoscopic,,1504,1129
+5436e3aebae478396759f0fd,ISIC_0000023,30,anterior torso,benign,,nevus,,,,,,,,,True,,,,female,,,,,,dermoscopic,,1504,1129
+5436e3aebae478396759f0ff,ISIC_0000024,45,posterior torso,benign,,nevus,,,,,,,,,True,,,,male,,,,,,dermoscopic,,1504,1129
+5436e3aebae478396759f101,ISIC_0000025,35,lower extremity,benign,,nevus,,,,,,,,,True,,,,female,,,,,,dermoscopic,,1504,1129
+5436e3aebae478396759f105,ISIC_0000027,35,anterior torso,benign,,nevus,,,,,,,,,True,,,,female,,,,,,dermoscopic,,1504,1129
+5436e3aebae478396759f107,ISIC_0000028,60,anterior torso,benign,,nevus,,,,,,,,,True,,,,male,,,,,,dermoscopic,,1504,1129
+5436e3afbae478396759f10f,ISIC_0000032,30,posterior torso,benign,,nevus,,,,,,,,,True,,,,female,,,,,,dermoscopic,,1504,1129
+5436e3afbae478396759f111,ISIC_0000033,45,lower extremity,benign,,nevus,,,,,,,,,True,,,,female,,,,,,dermoscopic,,1504,1129
+5436e3afbae478396759f113,ISIC_0000034,30,posterior torso,benign,,nevus,,,,,,,,,True,,,,female,,,,,,dermoscopic,,1504,1129
+5436e3afbae478396759f119,ISIC_0000037,70,posterior torso,benign,,nevus,,,,,,,,,True,,,,male,,,,,,dermoscopic,,1504,1129
+5436e3b0bae478396759f11b,ISIC_0000038,40,posterior torso,benign,,nevus,,,,,,,,,True,,,,female,,,,,,dermoscopic,,1504,1129
+5436e3b0bae478396759f11d,ISIC_0000039,60,posterior torso,benign,,nevus,,,,,,,,,True,,,,female,,,,,,dermoscopic,,1504,1129
+5436e3b0bae478396759f121,ISIC_0000041,40,lower extremity,benign,,nevus,,,,,,,,,True,,,,female,,,,,,dermoscopic,,1504,1129
+5436e3b0bae478396759f123,ISIC_0000042,50,anterior torso,benign,,nevus,,,,,,,,,True,,,,male,,,,,,dermoscopic,,1504,1129
+5436e3b0bae478396759f127,ISIC_0000044,20,posterior torso,benign,,nevus,,,,,,,,,True,,,,male,,,,,,dermoscopic,,1504,1129
+5436e3b0bae478396759f129,ISIC_0000045,30,lower extremity,benign,,nevus,,,,,,,,,True,,,,male,,,,,,dermoscopic,,1504,1129
+5436e3b1bae478396759f12d,ISIC_0000047,70,lower extremity,benign,,nevus,,,,,,,,,True,,,,male,,,,,,dermoscopic,,1504,1129
+5436e3b1bae478396759f12f,ISIC_0000048,50,anterior torso,benign,,nevus,,,,,,,,,True,,,,female,,,,,,dermoscopic,,1504,1129
+5436e3b1bae478396759f133,ISIC_0000050,30,anterior torso,benign,,nevus,,,,,,,,,True,,,,male,,,,,,dermoscopic,,1504,1129
+5436e3b1bae478396759f135,ISIC_0000051,55,upper extremity,benign,,nevus,,,,,,,,,True,,,,male,,,,,,dermoscopic,,1504,1129
+5436e3b1bae478396759f137,ISIC_0000052,40,posterior torso,benign,,nevus,,,,,,,,,True,,,,female,,,,,,dermoscopic,,1504,1129
+5436e3b1bae478396759f139,ISIC_0000053,25,posterior torso,benign,,nevus,,,,,,,,,True,,,,female,,,,,,dermoscopic,,1504,1129
+5436e3b2bae478396759f13d,ISIC_0000055,40,posterior torso,benign,,nevus,,,,,,,,,True,,,,female,,,,,,dermoscopic,,1504,1129
+5436e3b2bae478396759f141,ISIC_0000057,40,lower extremity,benign,,nevus,,,,,,,,,True,,,,female,,,,,,dermoscopic,,1504,1129
+5436e3b2bae478396759f143,ISIC_0000058,40,posterior torso,benign,,nevus,,,,,,,,,True,,,,female,,,,,,dermoscopic,,1504,1129
+5436e3b2bae478396759f145,ISIC_0000059,30,lower extremity,benign,,nevus,,,,,,,,,True,,,,female,,,,,,dermoscopic,,1504,1129
+5436e3b2bae478396759f147,ISIC_0000060,35,posterior torso,benign,,nevus,,,,,,,,,True,,,,female,,,,,,dermoscopic,,1504,1129
+5436e3b2bae478396759f149,ISIC_0000061,35,lower extremity,benign,,nevus,,,,,,,,,True,,,,female,,,,,,dermoscopic,,1504,1129
+5436e3b2bae478396759f14b,ISIC_0000062,40,posterior torso,benign,,nevus,,,,,,,,,True,,,,female,,,,,,dermoscopic,,1504,1129
+5436e3b3bae478396759f14d,ISIC_0000063,45,anterior torso,benign,,nevus,,,,,,,,,True,,,,female,,,,,,dermoscopic,,1504,1129
+5436e3b3bae478396759f14f,ISIC_0000064,40,anterior torso,benign,,nevus,,,,,,,,,True,,,,female,,,,,,dermoscopic,,1504,1129
+5436e3b3bae478396759f151,ISIC_0000065,30,posterior torso,benign,,nevus,,,,,,,,,True,,,,female,,,,,,dermoscopic,,1504,1129
+5436e3b3bae478396759f153,ISIC_0000066,55,posterior torso,benign,,nevus,,,,,,,,,True,,,,female,,,,,,dermoscopic,,962,722
+5436e3b3bae478396759f155,ISIC_0000067,45,posterior torso,benign,,nevus,,,,,,,,,True,,,,female,,,,,,dermoscopic,,962,722
+5436e3b3bae478396759f157,ISIC_0000068,35,anterior torso,benign,,nevus,,,,,,,,,True,,,,female,,,,,,dermoscopic,,962,722
+5436e3b3bae478396759f159,ISIC_0000069,15,anterior torso,benign,,nevus,,,,,,,,,True,,,,female,,,,,,dermoscopic,,1022,767
+5436e3b3bae478396759f15d,ISIC_0000071,25,posterior torso,benign,,nevus,,,,,,,,,True,,,,male,,,,,,dermoscopic,,1022,767
+5436e3b3bae478396759f15f,ISIC_0000072,85,posterior torso,benign,,nevus,,,,,,,,,True,,,,male,,,,,,dermoscopic,,1022,767
+5436e3b4bae478396759f161,ISIC_0000073,20,posterior torso,benign,,nevus,,,,,,,,,True,,,,female,,,,,,dermoscopic,,1022,767
+5436e3b4bae478396759f165,ISIC_0000075,50,anterior torso,benign,,nevus,,,,,,,,,True,,,,female,,,,,,dermoscopic,,1022,767
+5436e3b4bae478396759f16d,ISIC_0000079,55,lower extremity,benign,,nevus,,,,,,,,,True,,,,female,,,,,,dermoscopic,,1504,1129
+5436e3b4bae478396759f16f,ISIC_0000080,,,benign,,nevus,,,,,,,,,True,,,,,,,,,,dermoscopic,,2592,1944
+5436e3b5bae478396759f171,ISIC_0000081,,,benign,,nevus,,,,,,,,,True,,,,,,,,,,dermoscopic,,2048,1536
+5436e3b5bae478396759f173,ISIC_0000082,,,benign,,nevus,,,,,,,,,True,,,,,,,,,,dermoscopic,,2048,1536
+5436e3b5bae478396759f175,ISIC_0000083,,,benign,,nevus,,,,,,,,,True,,,,,,,,,,dermoscopic,,2048,1536
+5436e3b5bae478396759f177,ISIC_0000084,,,benign,,nevus,,,,,,,,,True,,,,,,,,,,dermoscopic,,2048,1536
+5436e3b5bae478396759f179,ISIC_0000085,,,benign,,nevus,,,,,,,,,True,,,,,,,,,,dermoscopic,,2048,1536
+5436e3b6bae478396759f17b,ISIC_0000086,,,benign,,nevus,,,,,,,,,True,,,,,,,,,,dermoscopic,,2592,1944
+5436e3b6bae478396759f17d,ISIC_0000087,,,benign,,nevus,,,,,,,,,True,,,,,,,,,,dermoscopic,,2048,1536
+5436e3b6bae478396759f17f,ISIC_0000088,,,benign,,nevus,,,,,,,,,True,,,,,,,,,,dermoscopic,,2048,1536
+5436e3b6bae478396759f181,ISIC_0000089,,,benign,,nevus,,,,,,,,,True,,,,,,,,,,dermoscopic,,2048,1536
+5436e3b7bae478396759f183,ISIC_0000090,,,benign,,nevus,,,,,,,,,True,,,,,,,,,,dermoscopic,,2592,1944
+5436e3b7bae478396759f185,ISIC_0000091,,,benign,,nevus,,,,,,,,,True,,,,,,,,,,dermoscopic,,2048,1536
+5436e3b7bae478396759f187,ISIC_0000092,,,benign,,nevus,,,,,,,,,True,,,,,,,,,,dermoscopic,,2048,1536
+5436e3b7bae478396759f189,ISIC_0000093,,,benign,,nevus,,,,,,,,,True,,,,,,,,,,dermoscopic,,2048,1536
+5436e3b7bae478396759f18b,ISIC_0000094,,,benign,,nevus,,,,,,,,,True,,,,,,,,,,dermoscopic,,2048,1536
+5436e3b8bae478396759f18d,ISIC_0000095,,,benign,,nevus,,,,,,,,,True,,,,,,,,,,dermoscopic,,2048,1536
+5436e3b8bae478396759f18f,ISIC_0000096,,,benign,,nevus,,,,,,,,,True,,,,,,,,,,dermoscopic,,2048,1536
+5436e3b8bae478396759f191,ISIC_0000097,,,benign,,nevus,,,,,,,,,True,,,,,,,,,,dermoscopic,,2048,1536
+5436e3b8bae478396759f193,ISIC_0000098,,,benign,,nevus,,,,,,,,,True,,,,,,,,,,dermoscopic,,2048,1536
+5436e3b8bae478396759f197,ISIC_0000099,,,benign,,nevus,,,,,,,,,True,,,,,,,,,,dermoscopic,,2048,1536
+5436e3b9bae478396759f199,ISIC_0000100,,,benign,,nevus,,,,,,,,,True,,,,,,,,,,dermoscopic,,2272,1704

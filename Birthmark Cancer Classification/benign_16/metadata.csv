@@ -1,0 +1,81 @@
+_id,name,meta.clinical.age_approx,meta.clinical.anatom_site_general,meta.clinical.benign_malignant,meta.clinical.clin_size_long_diam_mm,meta.clinical.diagnosis,meta.clinical.diagnosis_confirm_type,meta.clinical.family_hx_mm,meta.clinical.lesion_id,meta.clinical.mel_class,meta.clinical.mel_mitotic_index,meta.clinical.mel_thick_mm,meta.clinical.mel_type,meta.clinical.mel_ulcer,meta.clinical.melanocytic,meta.clinical.nevus_type,meta.clinical.patient_id,meta.clinical.personal_hx_mm,meta.clinical.sex,meta.acquisition.acquisition_day,meta.acquisition.blurry,meta.acquisition.color_tint,meta.acquisition.dermoscopic_type,meta.acquisition.hairy,meta.acquisition.image_type,meta.acquisition.marker_pen,meta.acquisition.pixelsX,meta.acquisition.pixelsY
+5e95f1e6396583e25a506a55,ISIC_2564319,50,upper extremity,benign,,,serial imaging showing no change,,IL_1782848,,,,,,,,IP_5986216,,male,,,,,,,,1872,1053
+5e8403a52a5a4415fe695c46,ISIC_2564395,45,lower extremity,benign,,nevus,serial imaging showing no change,,IL_3500526,,,,,,True,,IP_9373614,,female,,,,contact polarized,,dermoscopic,,1872,1053
+5e8402b22a5a4415fe69568e,ISIC_2565512,50,lower extremity,benign,,nevus,serial imaging showing no change,,IL_5063214,,,,,,True,,IP_2908137,,male,,,,contact polarized,,dermoscopic,,1872,1053
+5e81007f74440928c0bdffeb,ISIC_2565986,30,lower extremity,benign,,,single image expert consensus,,IL_6410333,,,,,,,,IP_4821632,,female,,,,,,,,6000,4000
+5e80fbe174440928c0bdf2f0,ISIC_2566005,35,posterior torso,benign,,,single image expert consensus,,IL_1263293,,,,,,,,IP_0039318,,male,,,,,,,,6000,4000
+5e84029a2a5a4415fe695464,ISIC_2566319,35,upper extremity,benign,,nevus,serial imaging showing no change,,IL_3064227,,,,,,True,,IP_9258690,,male,,,,contact polarized,,dermoscopic,,1872,1053
+5e8402c12a5a4415fe6957fd,ISIC_2566365,45,,benign,,nevus,serial imaging showing no change,,IL_2097782,,,,,,True,,IP_5596716,,male,,,,contact polarized,,dermoscopic,,1872,1053
+5e8100a374440928c0be0204,ISIC_2566820,25,posterior torso,benign,,,single image expert consensus,,IL_0229646,,,,,,,,IP_6331798,,female,,,,,,,,6000,4000
+5e8403c82a5a4415fe695f53,ISIC_2567644,50,,benign,,nevus,serial imaging showing no change,,IL_6322297,,,,,,True,,IP_3128221,,male,,,,contact polarized,,dermoscopic,,1872,1053
+5e81007b74440928c0bdff9b,ISIC_2567786,65,posterior torso,benign,,,single image expert consensus,,IL_3201342,,,,,,,,IP_2325148,,male,,,,,,,,5184,3456
+5e95f1d4396583e25a506891,ISIC_2567845,45,lower extremity,benign,,,serial imaging showing no change,,IL_7245187,,,,,,,,IP_8851498,,male,,,,,,,,1872,1053
+5e8403cc2a5a4415fe695fc0,ISIC_2568066,55,upper extremity,benign,,nevus,serial imaging showing no change,,IL_1816997,,,,,,True,,IP_3219832,,female,,,,contact polarized,,dermoscopic,,1872,1053
+5e81071974440928c0be1dbe,ISIC_2568224,30,posterior torso,benign,,,single image expert consensus,,IL_8745315,,,,,,,,IP_9042214,,female,,,,,,,,5184,3456
+5e80fccc74440928c0bdfe20,ISIC_2569851,65,lower extremity,benign,,,single image expert consensus,,IL_1584646,,,,,,,,IP_4014685,,female,,,,,,,,6000,4000
+5e8402522a5a4415fe694dc3,ISIC_2570104,50,lower extremity,benign,,nevus,serial imaging showing no change,,IL_2811886,,,,,,True,,IP_3621895,,female,,,,contact polarized,,dermoscopic,,1872,1053
+5e95f2d8396583e25a507e13,ISIC_2570708,15,lower extremity,benign,,,serial imaging showing no change,,IL_9007289,,,,,,,,IP_5561220,,female,,,,,,,,640,480
+5e8f93744ad5f6bd588b1665,ISIC_2570767,25,upper extremity,benign,,,serial imaging showing no change,,IL_0852649,,,,,,,,IP_9835231,,female,,,,,,,,6000,4000
+5e8106cc74440928c0be1a1a,ISIC_2571343,40,lower extremity,benign,,,single image expert consensus,,IL_7964979,,,,,,,,IP_8011614,,female,,,,,,,,6000,4000
+5e8403be2a5a4415fe695e60,ISIC_2571614,45,lower extremity,benign,,nevus,serial imaging showing no change,,IL_7694628,,,,,,True,,IP_2394927,,male,,,,contact polarized,,dermoscopic,,1872,1053
+5e8403d92a5a4415fe6960de,ISIC_2572370,35,,benign,,nevus,serial imaging showing no change,,IL_3902151,,,,,,True,,IP_8402958,,male,,,,contact polarized,,dermoscopic,,1872,1053
+5e80fc4c74440928c0bdf77e,ISIC_2573712,35,posterior torso,benign,,nevus,histopathology,,IL_3424095,,,,,,True,,IP_8124898,,male,,,,,,,,4288,2848
+5e81065e74440928c0be1403,ISIC_2574344,50,posterior torso,benign,,,single image expert consensus,,IL_3066178,,,,,,,,IP_3713422,,male,,,,,,,,6000,4000
+5e95f267396583e25a507469,ISIC_2575480,50,anterior torso,benign,,,serial imaging showing no change,,IL_3127123,,,,,,,,IP_0639877,,male,,,,,,,,1872,1053
+5e81079374440928c0be250a,ISIC_2575536,35,anterior torso,benign,,,single image expert consensus,,IL_2048911,,,,,,,,IP_4687295,,female,,,,,,,,4288,2848
+5e81031574440928c0be03cf,ISIC_2575894,45,lower extremity,benign,,,single image expert consensus,,IL_9408448,,,,,,,,IP_1472634,,female,,,,,,,,6000,4000
+5e95f374396583e25a508ad5,ISIC_2577003,20,lower extremity,benign,,,serial imaging showing no change,,IL_4524102,,,,,,,,IP_2026598,,male,,,,,,,,1872,1053
+5e81032674440928c0be051d,ISIC_2577147,25,anterior torso,benign,,,single image expert consensus,,IL_2250566,,,,,,,,IP_4938382,,female,,,,,,,,6000,4000
+5e81066274440928c0be1468,ISIC_2577625,30,anterior torso,benign,,,single image expert consensus,,IL_3097624,,,,,,,,IP_2321962,,female,,,,,,,,5184,3456
+5e81078d74440928c0be247c,ISIC_2577881,55,lower extremity,benign,,,single image expert consensus,,IL_2932135,,,,,,,,IP_8215360,,female,,,,,,,,6000,4000
+5e8403b82a5a4415fe695de6,ISIC_2578478,25,,benign,,nevus,serial imaging showing no change,,IL_5814217,,,,,,True,,IP_5698400,,female,,,,contact polarized,,dermoscopic,,1872,1053
+5e8403a42a5a4415fe695c2d,ISIC_2578539,65,,benign,,nevus,serial imaging showing no change,,IL_7583676,,,,,,True,,IP_4294672,,female,,,,contact polarized,,dermoscopic,,1872,1053
+5e8106d774440928c0be1afa,ISIC_2578624,60,,benign,,,single image expert consensus,,IL_7308543,,,,,,,,IP_7753447,,male,,,,,,,,6000,4000
+5e95f2ce396583e25a507d1d,ISIC_2579390,35,lower extremity,benign,,,serial imaging showing no change,,IL_0726429,,,,,,,,IP_2117218,,male,,,,,,,,1872,1053
+5e95f2ff396583e25a50811e,ISIC_2579675,30,lateral torso,benign,,,histopathology,,IL_3592149,,,,,,,,IP_4681183,,male,,,,,,,,640,480
+5e80f89d74440928c0bded94,ISIC_2580667,55,upper extremity,benign,,,single image expert consensus,,IL_6110804,,,,,,,,IP_2596575,,female,,,,,,,,6000,4000
+5e8403bb2a5a4415fe695e23,ISIC_2580689,45,,benign,,nevus,serial imaging showing no change,,IL_8814672,,,,,,True,,IP_0091605,,female,,,,contact polarized,,dermoscopic,,1872,1053
+5e81073e74440928c0be20d8,ISIC_2581307,30,posterior torso,benign,,,single image expert consensus,,IL_3936859,,,,,,,,IP_0989858,,female,,,,,,,,5184,3456
+5e80f8b374440928c0bdeefb,ISIC_2581480,35,posterior torso,benign,,,single image expert consensus,,IL_8011554,,,,,,,,IP_1800426,,female,,,,,,,,6000,4000
+5e84028d2a5a4415fe695333,ISIC_2581536,50,lower extremity,benign,,nevus,serial imaging showing no change,,IL_7183508,,,,,,True,,IP_7743081,,female,,,,contact polarized,,dermoscopic,,1872,1053
+5e81067274440928c0be15a6,ISIC_2582493,65,posterior torso,benign,,,single image expert consensus,,IL_2838719,,,,,,,,IP_9652966,,male,,,,,,,,3264,2448
+5e95f2ca396583e25a507cb5,ISIC_2582511,65,posterior torso,benign,,,serial imaging showing no change,,IL_9536148,,,,,,,,IP_9248372,,female,,,,,,,,640,480
+5e84038a2a5a4415fe6959cb,ISIC_2583592,35,,benign,,nevus,serial imaging showing no change,,IL_1655764,,,,,,True,,IP_2976930,,female,,,,contact polarized,,dermoscopic,,1872,1053
+5e8403932a5a4415fe695a83,ISIC_2584165,30,,benign,,nevus,serial imaging showing no change,,IL_7214683,,,,,,True,,IP_6931421,,male,,,,contact polarized,,dermoscopic,,1872,1053
+5e8fbd82396583e25a506484,ISIC_2584872,45,anterior torso,benign,,,serial imaging showing no change,,IL_3255619,,,,,,,,IP_5793596,,female,,,,,,,,5184,3456
+5e80f89d74440928c0bded9a,ISIC_2584999,55,lower extremity,benign,,,single image expert consensus,,IL_2748192,,,,,,,,IP_2596575,,female,,,,,,,,6000,4000
+5e95f2a2396583e25a507943,ISIC_2585066,25,posterior torso,benign,,,serial imaging showing no change,,IL_1616732,,,,,,,,IP_3865267,,male,,,,,,,,640,480
+5e84029d2a5a4415fe69549d,ISIC_2586049,45,lower extremity,benign,,nevus,serial imaging showing no change,,IL_5360634,,,,,,True,,IP_6428232,,male,,,,contact polarized,,dermoscopic,,1872,1053
+5e8f8df94ad5f6bd588b031f,ISIC_2586109,35,upper extremity,benign,,,serial imaging showing no change,,IL_8482881,,,,,,,,IP_1902399,,male,,,,,,,,5184,3456
+5e8f945a4ad5f6bd588b1932,ISIC_2586269,60,posterior torso,benign,,,serial imaging showing no change,,IL_2396969,,,,,,,,IP_8154758,,male,,,,,,,,4032,3024
+5e8f93d14ad5f6bd588b1710,ISIC_2586487,55,anterior torso,benign,,,serial imaging showing no change,,IL_4597908,,,,,,,,IP_6207062,,female,,,,,,,,5184,3456
+5e80fc5674440928c0bdf830,ISIC_2586859,30,posterior torso,benign,,,single image expert consensus,,IL_0803851,,,,,,,,IP_6814737,,female,,,,,,,,6000,4000
+5e8106c174440928c0be1933,ISIC_2587002,50,posterior torso,benign,,,single image expert consensus,,IL_2562387,,,,,,,,IP_6526534,,male,,,,,,,,6000,4000
+5e95f24a396583e25a50724a,ISIC_2587465,55,lower extremity,benign,,,serial imaging showing no change,,IL_5111379,,,,,,,,IP_1218338,,female,,,,,,,,640,480
+5e95f2b4396583e25a507ad9,ISIC_2587535,45,lower extremity,benign,,,serial imaging showing no change,,IL_9399863,,,,,,,,IP_9455054,,male,,,,,,,,1872,1053
+5e81078574440928c0be23e0,ISIC_2587913,40,anterior torso,benign,,,single image expert consensus,,IL_1913383,,,,,,,,IP_7690396,,female,,,,,,,,6000,4000
+5e95f1f6396583e25a506b7f,ISIC_2587955,60,lower extremity,benign,,,serial imaging showing no change,,IL_4633559,,,,,,,,IP_9115451,,male,,,,,,,,640,480
+5e95f303396583e25a508181,ISIC_2588167,50,lower extremity,benign,,,serial imaging showing no change,,IL_0440832,,,,,,,,IP_6830809,,male,,,,,,,,640,480
+5e95f23b396583e25a5070f6,ISIC_2589000,45,anterior torso,benign,,,serial imaging showing no change,,IL_5333581,,,,,,,,IP_6342369,,female,,,,,,,,1872,1053
+5e8403d72a5a4415fe6960bc,ISIC_2589452,45,lower extremity,benign,,nevus,serial imaging showing no change,,IL_6853932,,,,,,True,,IP_4080851,,male,,,,contact polarized,,dermoscopic,,1872,1053
+5e80f8c174440928c0bdf000,ISIC_2589797,65,posterior torso,benign,,,single image expert consensus,,IL_2592702,,,,,,,,IP_9122609,,male,,,,,,,,6000,4000
+5e81007674440928c0bdff43,ISIC_2590211,25,posterior torso,benign,,,single image expert consensus,,IL_5367040,,,,,,,,IP_3782995,,female,,,,,,,,6000,4000
+5e81065b74440928c0be13c0,ISIC_2590278,45,posterior torso,benign,,,single image expert consensus,,IL_6749773,,,,,,,,IP_2900789,,female,,,,,,,,3264,2448
+5e8fb19e396583e25a5057f7,ISIC_2590729,25,upper extremity,benign,,,serial imaging showing no change,,IL_4717884,,,,,,,,IP_0883591,,female,,,,,,,,6000,4000
+5e80fc4b74440928c0bdf75c,ISIC_2592034,65,lower extremity,benign,,,single image expert consensus,,IL_5975221,,,,,,,,IP_7557262,,female,,,,,,,,6000,4000
+5e8403822a5a4415fe6958f9,ISIC_2592534,40,,benign,,nevus,serial imaging showing no change,,IL_3503996,,,,,,True,,IP_2411134,,female,,,,contact polarized,,dermoscopic,,1872,1053
+5e95f218396583e25a506e46,ISIC_2592814,45,palms/soles,benign,,,serial imaging showing no change,,IL_3389963,,,,,,,,IP_8916501,,male,,,,,,,,640,480
+5e95f2c6396583e25a507c5d,ISIC_2592956,35,anterior torso,benign,,,histopathology,,IL_3581205,,,,,,,,IP_3089004,,female,,,,,,,,640,480
+5e8f91ff4ad5f6bd588b104b,ISIC_2593795,50,anterior torso,benign,,,serial imaging showing no change,,IL_1125792,,,,,,,,IP_4682288,,female,,,,,,,,4032,3024
+5e81007974440928c0bdff7b,ISIC_2595571,75,head/neck,benign,,,single image expert consensus,,IL_3991447,,,,,,,,IP_1740600,,male,,,,,,,,6000,4000
+5e8fb8bf396583e25a505db4,ISIC_2595590,60,lower extremity,benign,,,serial imaging showing no change,,IL_0428797,,,,,,,,IP_3032370,,female,,,,,,,,3456,5184
+5e95f1d6396583e25a5068b6,ISIC_2596262,55,lower extremity,benign,,,serial imaging showing no change,,IL_3992274,,,,,,,,IP_0063782,,female,,,,,,,,640,480
+5e80fbfd74440928c0bdf4e5,ISIC_2596390,40,lower extremity,benign,,,single image expert consensus,,IL_1906087,,,,,,,,IP_0307863,,male,,,,,,,,6000,4000
+5e8403c72a5a4415fe695f38,ISIC_2596574,45,lower extremity,benign,,nevus,serial imaging showing no change,,IL_3320088,,,,,,True,,IP_7147862,,male,,,,contact polarized,,dermoscopic,,1872,1053
+5e80fc4474440928c0bdf6cd,ISIC_2597678,60,upper extremity,benign,,nevus,histopathology,,IL_2672374,,,,,,True,,IP_6459335,,male,,,,,,,,4288,2848
+5e84027d2a5a4415fe6951c7,ISIC_2597975,75,,benign,,nevus,serial imaging showing no change,,IL_5619606,,,,,,True,,IP_3433747,,male,,,,contact polarized,,dermoscopic,,1872,1053
+5e84029e2a5a4415fe6954b3,ISIC_2598702,30,upper extremity,benign,,nevus,serial imaging showing no change,,IL_0707491,,,,,,True,,IP_4783134,,female,,,,contact polarized,,dermoscopic,,1872,1053
+5e8f8eaf4ad5f6bd588b050c,ISIC_2598974,70,upper extremity,benign,,,serial imaging showing no change,,IL_7085080,,,,,,,,IP_5987487,,female,,,,,,,,6000,4000
+5e8106e274440928c0be1bef,ISIC_2599134,50,anterior torso,benign,,,single image expert consensus,,IL_8108374,,,,,,,,IP_3140047,,male,,,,,,,,6000,4000
+5e95f32c396583e25a5084b9,ISIC_2599331,45,lower extremity,benign,,,serial imaging showing no change,,IL_1909597,,,,,,,,IP_2285480,,female,,,,,,,,640,480
+5e95f23e396583e25a50713d,ISIC_2599583,40,posterior torso,benign,,,serial imaging showing no change,,IL_1671820,,,,,,,,IP_8766487,,female,,,,,,,,1872,1053
