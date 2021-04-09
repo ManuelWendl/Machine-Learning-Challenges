@@ -1,0 +1,81 @@
+_id,name,meta.clinical.age_approx,meta.clinical.anatom_site_general,meta.clinical.benign_malignant,meta.clinical.clin_size_long_diam_mm,meta.clinical.diagnosis,meta.clinical.diagnosis_confirm_type,meta.clinical.family_hx_mm,meta.clinical.lesion_id,meta.clinical.mel_class,meta.clinical.mel_mitotic_index,meta.clinical.mel_thick_mm,meta.clinical.mel_type,meta.clinical.mel_ulcer,meta.clinical.melanocytic,meta.clinical.nevus_type,meta.clinical.patient_id,meta.clinical.personal_hx_mm,meta.clinical.sex,meta.acquisition.acquisition_day,meta.acquisition.blurry,meta.acquisition.color_tint,meta.acquisition.dermoscopic_type,meta.acquisition.hairy,meta.acquisition.image_type,meta.acquisition.marker_pen,meta.acquisition.pixelsX,meta.acquisition.pixelsY
+5e8f94f44ad5f6bd588b1b8a,ISIC_8009536,65,posterior torso,malignant,,melanoma,histopathology,,IL_9172829,,,,superficial spreading melanoma,,True,,IP_0957064,,male,,,,,,,,4032,3024
+5e8f91924ad5f6bd588b0f63,ISIC_8011058,30,lower extremity,malignant,,melanoma,histopathology,,IL_5360958,,,,superficial spreading melanoma,,True,,IP_3662918,,female,,,,,,,,5184,3456
+5e95f356396583e25a50882c,ISIC_8027899,30,lower extremity,malignant,,melanoma,histopathology,,IL_2527525,,,,,,True,,IP_7785592,,male,,,,,,,,640,480
+5e95f2f3396583e25a50801d,ISIC_8040024,55,anterior torso,malignant,,melanoma,histopathology,,IL_4559981,,,,,,True,,IP_8171851,,female,,,,,,,,1872,1053
+5e8100a074440928c0be01e3,ISIC_8052769,50,upper extremity,malignant,,melanoma,histopathology,,IL_0243624,invasive melanoma,,,,,True,,IP_6630831,,male,,,,,,,,3264,2448
+5e95f38a396583e25a508cd7,ISIC_8066110,50,lower extremity,malignant,,melanoma,histopathology,,IL_7066374,,,,,,True,,IP_3055814,,male,,,,,,,,1872,1053
+5e95f28a396583e25a507744,ISIC_8068693,45,anterior torso,malignant,,melanoma,histopathology,,IL_7378236,,,,,,True,,IP_5533537,,female,,,,,,,,640,480
+5e81009a74440928c0be0193,ISIC_8106899,70,posterior torso,malignant,,melanoma,histopathology,,IL_5045827,,,,,,True,,IP_5609476,,male,,,,,,,,3264,2448
+5e8faf0b396583e25a5055af,ISIC_8124900,50,anterior torso,malignant,,melanoma,histopathology,,IL_9116998,,,,,,True,,IP_3293337,,male,,,,,,,,5184,3456
+5e80fcaf74440928c0bdfc01,ISIC_8133350,85,head/neck,malignant,,melanoma,histopathology,,IL_4731928,melanoma in situ,,,,,True,,IP_6838833,,female,,,,,,,,3264,2448
+5e8fa7de396583e25a505036,ISIC_8145348,75,posterior torso,malignant,,melanoma,histopathology,,IL_3595169,,,,,,True,,IP_4070933,,male,,,,,,,,4032,3024
+5e8106e274440928c0be1be0,ISIC_8157654,70,posterior torso,malignant,,melanoma,histopathology,,IL_4387565,melanoma in situ,,,,,True,,IP_9037179,,male,,,,,,,,3264,2448
+5e8fa29c10344ce85ea8e51c,ISIC_8167374,80,posterior torso,malignant,,melanoma,histopathology,,IL_9980924,,,,,,True,,IP_8361815,,male,,,,,,,,5184,3456
+5e95f1ed396583e25a506ae7,ISIC_8175453,30,posterior torso,malignant,,melanoma,histopathology,,IL_3127179,,,,,,True,,IP_4218429,,female,,,,,,,,640,480
+5e81060474440928c0be0f1f,ISIC_8194835,60,lower extremity,malignant,,melanoma,histopathology,,IL_8513236,invasive melanoma,,,,,True,,IP_2302748,,female,,,,,,,,3264,2448
+5e95f1c1396583e25a506727,ISIC_8207974,45,posterior torso,malignant,,melanoma,histopathology,,IL_2501107,,,,,,True,,IP_8702124,,female,,,,,,,,640,480
+5e8f92714ad5f6bd588b119b,ISIC_8230318,85,posterior torso,malignant,,melanoma,histopathology,,IL_2380354,,,,,,True,,IP_9736783,,male,,,,,,,,4032,3024
+5e8f8eb74ad5f6bd588b054a,ISIC_8231999,60,head/neck,malignant,,melanoma,histopathology,,IL_1124875,melanoma in situ,,,,,True,,IP_2516168,,male,,,,,,,,4032,3024
+5e8f930b4ad5f6bd588b14d9,ISIC_8249854,55,upper extremity,malignant,,melanoma,histopathology,,IL_0562824,,,,,,True,,IP_9006739,,male,,,,,,,,5184,3456
+5e95f2c6396583e25a507c58,ISIC_8252406,85,palms/soles,malignant,,melanoma,histopathology,,IL_8184686,,,,,,True,,IP_3750016,,male,,,,,,,,1872,1053
+5e8faef2396583e25a5054bf,ISIC_8263489,60,posterior torso,malignant,,melanoma,histopathology,,IL_8306450,,,,,,True,,IP_9111321,,male,,,,,,,,6000,4000
+5e81072674440928c0be1eca,ISIC_8281208,40,anterior torso,malignant,,melanoma,histopathology,,IL_4750046,,,,,,True,,IP_9086201,,female,,,,,,,,4288,2848
+5e8105a174440928c0be09e8,ISIC_8306697,65,anterior torso,malignant,,melanoma,histopathology,,IL_1205250,invasive melanoma,,,,,True,,IP_9175987,,male,,,,,,,,3264,2448
+5e81067674440928c0be1602,ISIC_8325226,75,posterior torso,malignant,,melanoma,histopathology,,IL_6297591,,,,,,True,,IP_0585473,,male,,,,,,,,4288,2848
+5e80fc3f74440928c0bdf671,ISIC_8379956,70,,malignant,,melanoma,histopathology,,IL_6696903,melanoma in situ,,,,,True,,IP_8412988,,female,,,,,,,,3264,2448
+5e8107ce74440928c0be2703,ISIC_8381531,70,upper extremity,malignant,,melanoma,histopathology,,IL_4089541,,,,,,True,,IP_6130936,,male,,,,,,,,2592,1936
+5e8fbd7a396583e25a506439,ISIC_8397285,50,posterior torso,malignant,,melanoma,histopathology,,IL_3011118,,,,superficial spreading melanoma,,True,,IP_3729342,,male,,,,,,,,3888,2592
+5e95f260396583e25a5073ea,ISIC_8414609,25,posterior torso,malignant,,melanoma,histopathology,,IL_6279524,,,,,,True,,IP_7066637,,male,,,,,,,,640,480
+5e81067674440928c0be1601,ISIC_8417873,75,anterior torso,malignant,,melanoma,histopathology,,IL_8666116,,,,,,True,,IP_0585473,,male,,,,,,,,2592,1936
+5e8f94fc4ad5f6bd588b1bda,ISIC_8437493,50,anterior torso,malignant,,melanoma,histopathology,,IL_6730284,,,,,,True,,IP_5874995,,male,,,,,,,,4032,3024
+5e95f291396583e25a5077cf,ISIC_8450656,30,palms/soles,malignant,,melanoma,histopathology,,IL_7900893,,,,,,True,,IP_7779275,,female,,,,,,,,640,480
+5e8f9b514ad5f6bd588b21d1,ISIC_8483382,70,anterior torso,malignant,,melanoma,histopathology,,IL_5258510,,,,,,True,,IP_3045056,,male,,,,,,,,1785,1785
+5e95f1ff396583e25a506c1a,ISIC_8485716,35,lower extremity,malignant,,melanoma,histopathology,,IL_8094403,,,,,,True,,IP_1303857,,male,,,,,,,,640,480
+5e95f36c396583e25a508a33,ISIC_8493108,80,upper extremity,malignant,,melanoma,histopathology,,IL_9688583,,,,,,True,,IP_3237442,,male,,,,,,,,1872,1053
+5e95f381396583e25a508bf3,ISIC_8496052,55,anterior torso,malignant,,melanoma,histopathology,,IL_0043116,,,,,,True,,IP_0998852,,female,,,,,,,,640,480
+5e81067c74440928c0be1678,ISIC_8497457,65,anterior torso,malignant,,melanoma,histopathology,,IL_7335547,melanoma in situ,,,,,True,,IP_2005898,,female,,,,,,,,3264,2448
+5e81032c74440928c0be058a,ISIC_8509577,70,posterior torso,malignant,,melanoma,histopathology,,IL_6812431,invasive melanoma,,,,,True,,IP_2412574,,male,,,,,,,,3264,2448
+5e80fc5d74440928c0bdf8b4,ISIC_8521610,70,anterior torso,malignant,,melanoma,histopathology,,IL_5862399,melanoma in situ,,,,,True,,IP_6512345,,male,,,,,,,,3264,2448
+5e8105ab74440928c0be0ab8,ISIC_8527092,55,head/neck,malignant,,melanoma,histopathology,,IL_0887946,invasive melanoma,,,,,True,,IP_7386073,,male,,,,,,,,3264,2448
+5e95f340396583e25a508659,ISIC_8545949,45,lower extremity,malignant,,melanoma,histopathology,,IL_8686171,,,,,,True,,IP_3970734,,male,,,,,,,,1872,1053
+5e8403ac2a5a4415fe695cdc,ISIC_8564474,75,,malignant,,melanoma,histopathology,,IL_8237555,invasive melanoma,,,,,True,,IP_6649505,,male,,,,contact polarized,,dermoscopic,,1872,1053
+5e81008b74440928c0be009c,ISIC_8566006,60,posterior torso,malignant,,melanoma,histopathology,,IL_6970547,,,,,,True,,IP_6624700,,male,,,,,,,,3264,2448
+5e8107ec74440928c0be294d,ISIC_8609756,65,lower extremity,malignant,,melanoma,histopathology,,IL_8712130,invasive melanoma,,,,,True,,IP_1264754,,female,,,,,,,,4288,2848
+5e81062874440928c0be1247,ISIC_8615491,60,head/neck,malignant,,melanoma,histopathology,,IL_9101238,,,,,,True,,IP_5278162,,male,,,,,,,,3264,2448
+5e95f2c2396583e25a507c03,ISIC_8617277,40,posterior torso,malignant,,melanoma,histopathology,,IL_6833848,,,,,,True,,IP_3281766,,female,,,,,,,,1872,1053
+5e84025d2a5a4415fe694ec2,ISIC_8621568,65,lower extremity,malignant,,melanoma,histopathology,,IL_3705463,invasive melanoma,,,,,True,,IP_3780641,,female,,,,contact polarized,,dermoscopic,,1872,1053
+5e81059974440928c0be0944,ISIC_8672524,55,posterior torso,malignant,,melanoma,histopathology,,IL_2956394,melanoma in situ,,,,,True,,IP_7373371,,female,,,,,,,,4288,2848
+5e8105ff74440928c0be0eb5,ISIC_8677053,55,head/neck,malignant,,melanoma,histopathology,,IL_3253776,invasive melanoma,,,,,True,,IP_4449605,,female,,,,,,,,3264,2448
+5e81008474440928c0be0036,ISIC_8692218,75,lower extremity,malignant,,melanoma,histopathology,,IL_7054345,,,,,,True,,IP_4327880,,male,,,,,,,,3264,2448
+5e84038b2a5a4415fe6959d6,ISIC_8702237,50,lower extremity,malignant,,melanoma,histopathology,,IL_8854900,,,,,,True,,IP_0738123,,female,,,,contact polarized,,dermoscopic,,1872,1053
+5e95f2e3396583e25a507eea,ISIC_8724944,45,posterior torso,malignant,,melanoma,histopathology,,IL_7415900,,,,,,True,,IP_3089004,,female,,,,,,,,1872,1053
+5e95f1ca396583e25a5067cc,ISIC_8732757,50,anterior torso,malignant,,melanoma,histopathology,,IL_0028657,,,,,,True,,IP_1197949,,male,,,,,,,,1872,1053
+5e8faf07396583e25a50558d,ISIC_8737794,80,anterior torso,malignant,,melanoma,histopathology,,IL_5565778,,,,,,True,,IP_6533286,,male,,,,,,,,5184,3456
+5e8f92ff4ad5f6bd588b1461,ISIC_8789051,80,upper extremity,malignant,,melanoma,histopathology,,IL_9930086,,,,,,True,,IP_1386934,,female,,,,,,,,4032,3024
+5e95f350396583e25a5087c4,ISIC_8838753,65,lower extremity,malignant,,melanoma,histopathology,,IL_9486623,,,,,,True,,IP_6292815,,female,,,,,,,,640,480
+5e81068374440928c0be1706,ISIC_8859274,80,,malignant,,melanoma,histopathology,,IL_7486419,,,,,,True,,IP_4615697,,male,,,,,,,,2592,1936
+5e8402a92a5a4415fe6955c0,ISIC_8866651,75,,malignant,,melanoma,histopathology,,IL_4249218,invasive melanoma,,,,,True,,IP_8375879,,male,,,,contact polarized,,dermoscopic,,1872,1053
+5e80fbe674440928c0bdf361,ISIC_8872158,85,head/neck,malignant,,melanoma,histopathology,,IL_6723567,melanoma in situ,,,,,True,,IP_7826462,,male,,,,,,,,2592,1936
+5e81031674440928c0be03f0,ISIC_8882374,35,posterior torso,malignant,,melanoma,histopathology,,IL_6285367,invasive melanoma,,,,,True,,IP_2147407,,female,,,,,,,,2592,1936
+5e95f2c3396583e25a507c16,ISIC_8892236,35,lower extremity,malignant,,melanoma,histopathology,,IL_1097759,,,,,,True,,IP_2962626,,female,,,,,,,,640,480
+5e95f377396583e25a508b13,ISIC_8922893,50,upper extremity,malignant,,melanoma,histopathology,,IL_6391964,,,,,,True,,IP_9455054,,male,,,,,,,,1872,1053
+5e8105b974440928c0be0be1,ISIC_8951909,20,lower extremity,malignant,,melanoma,histopathology,,IL_6277992,invasive melanoma,,,,,True,,IP_4302652,,female,,,,,,,,2592,1936
+5e81072b74440928c0be1f36,ISIC_8985109,45,posterior torso,malignant,,melanoma,histopathology,,IL_4526909,invasive melanoma,,,,,True,,IP_9579751,,male,,,,,,,,2592,1936
+5e95f28d396583e25a50777c,ISIC_9000234,40,palms/soles,malignant,,melanoma,histopathology,,IL_5733260,,,,,,True,,IP_7785592,,male,,,,,,,,1872,1053
+5e8403e22a5a4415fe696191,ISIC_9000824,80,,malignant,,melanoma,histopathology,,IL_7775536,melanoma in situ,,,,,True,,IP_7716159,,male,,,,contact polarized,,dermoscopic,,1872,1053
+5e95f1ca396583e25a5067c3,ISIC_9001948,50,posterior torso,malignant,,melanoma,histopathology,,IL_1691897,,,,,,True,,IP_9909432,,male,,,,,,,,1872,1053
+5e8f93094ad5f6bd588b14c7,ISIC_9012513,70,anterior torso,malignant,,melanoma,histopathology,,IL_0420012,,,,,,True,,IP_3045056,,male,,,,,,,,2196,2196
+5e8f9b294ad5f6bd588b2065,ISIC_9038318,70,posterior torso,malignant,,melanoma,histopathology,,IL_0852638,,,,superficial spreading melanoma,,True,,IP_8502723,,male,,,,,,,,5184,3456
+5e81066574440928c0be14a9,ISIC_9048507,55,lower extremity,malignant,,melanoma,histopathology,,IL_4760796,invasive melanoma,,,,,True,,IP_7330399,,female,,,,,,,,3264,2448
+5e8f8fd14ad5f6bd588b0977,ISIC_9052500,85,anterior torso,malignant,,melanoma,histopathology,,IL_3526151,,,,,,True,,IP_7060150,,male,,,,,,,,5184,3456
+5e8106bb74440928c0be18a7,ISIC_9053910,80,posterior torso,malignant,,melanoma,histopathology,,IL_2645861,melanoma in situ,,,,,True,,IP_5336201,,male,,,,,,,,2592,1936
+5e95f2b1396583e25a507aa0,ISIC_9124447,30,posterior torso,malignant,,melanoma,histopathology,,IL_5477472,,,,,,True,,IP_2501903,,male,,,,,,,,640,480
+5e95f371396583e25a508a8a,ISIC_9130157,35,lower extremity,malignant,,melanoma,histopathology,,IL_4485407,,,,,,True,,IP_7702038,,male,,,,,,,,640,480
+5e8fbc2a396583e25a50615c,ISIC_9164054,75,posterior torso,malignant,,melanoma,histopathology,,IL_4295407,,,,,,True,,IP_1633296,,male,,,,,,,,1765,1765
+5e8fa7e7396583e25a505093,ISIC_9174306,70,head/neck,malignant,,melanoma,histopathology,,IL_6804312,,,,,,True,,IP_4611463,,male,,,,,,,,2029,2029
+5e8403e22a5a4415fe6961a4,ISIC_9193127,45,head/neck,malignant,,melanoma,histopathology,,IL_1527891,melanoma in situ,,,,,True,,IP_7147862,,male,,,,contact polarized,,dermoscopic,,1872,1053
+5e8f950c4ad5f6bd588b1c70,ISIC_9199429,50,head/neck,malignant,,melanoma,histopathology,,IL_8435540,melanoma in situ,,,,,True,,IP_6514499,,male,,,,,,,,4032,3024
+5e8faa10396583e25a5050cc,ISIC_9210255,55,anterior torso,malignant,,melanoma,histopathology,,IL_9516050,,,,,,True,,IP_4321822,,male,,,,,,,,5184,3456
+5e80fccb74440928c0bdfe08,ISIC_9228573,45,lower extremity,malignant,,melanoma,histopathology,,IL_7265512,invasive melanoma,,,,,True,,IP_6567258,,male,,,,,,,,4288,2848
+5e81033174440928c0be05e5,ISIC_9268487,75,anterior torso,malignant,,melanoma,histopathology,,IL_4563909,melanoma in situ,,,,,True,,IP_9820186,,male,,,,,,,,4288,2848
